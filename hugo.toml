@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Masonics'
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2 
+
+
+[[menu.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 3 
