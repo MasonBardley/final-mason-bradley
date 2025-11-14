@@ -9,6 +9,8 @@ ignoreConfig = false
 ignoreImports = false
 path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.main]]
   name = "Home"
