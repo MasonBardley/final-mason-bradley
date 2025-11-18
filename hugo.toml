@@ -28,3 +28,7 @@ unsafe = true
   name = "Articles"
   url = "/articles/"
   weight = 3 
+
+[params.ananke]
+show_recent_posts = false
+
