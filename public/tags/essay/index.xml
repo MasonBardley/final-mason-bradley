@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Masonic</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on Masonic</description>
+    <title>Essay on Masonic</title>
+    <link>http://localhost:1313/tags/essay/</link>
+    <description>Recent content in Essay on Masonic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Counting B&#39;s</title>
-      <link>http://localhost:1313/articles/article1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/article1/</guid>
-      <description>The &amp;lsquo;Counting Bs&amp;rsquo; function counts the number of &amp;lsquo;B&amp;rsquo;s in a word</description>
-    </item>
-    <item>
-      <title>Random Sorting</title>
-      <link>http://localhost:1313/articles/article2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/article2/</guid>
-      <description>The Random Sorting function rearranges a given table of data</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defending Pandarus from Troilus and Criseyde</title>
       <link>http://localhost:1313/blog/filler1/</link>
@@ -35,13 +21,6 @@
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/filler2/</guid>
       <description>&lt;p&gt;&lt;b&gt;Tragic Flaws and Lethal Heroes: Othello and Macbeth under Aristotle’s Definition&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tragic hero has remained one of the most compelling figures in literature, captivating audiences across centuries through stories of downfall and internal struggle. Central to understanding this archetype is Aristotle’s Poetics, a foundational text that outlines the defining characteristics of tragedy and the heroes who inhabit such stories. While interpretations have evolved over time, Aristotle’s insights provide a valuable lens through which to examine dramatic literature, particularly in relation to Shakespearean tragedy. By revisiting the philosopher’s criteria for tragedy we can better grasp the complexities of tragic heroes like Othello and Macbeth. The characters of Othello and Macbeth closely align with the Aristotelian model of the tragic hero through their noble stature, fatal flaws, and eventual downfalls that evoke pity and fear.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>An English student at Georgetown College in Georgetown, KY. Mason is a passionate writer and film fan. Click to learn more</description>
     </item>
   </channel>
 </rss>
