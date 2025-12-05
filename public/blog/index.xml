@@ -1,26 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Masonic</title>
+    <title>Blog Posts on Masonic Readings</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Posts on Masonic</description>
+    <description>Recent content in Blog Posts on Masonic Readings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugonia(2025) and the Bees</title>
+      <link>http://localhost:1313/blog/article1/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/article1/</guid>
+      <description>A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia</description>
+    </item>
+    <item>
+      <title>Random Sorting</title>
+      <link>http://localhost:1313/blog/article2/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/article2/</guid>
+      <description>The Random Sorting function rearranges a given table of data</description>
+    </item>
+    <item>
+      <title>Counting B&#39;s</title>
+      <link>http://localhost:1313/blog/program1/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/program1/</guid>
+      <description>The &amp;lsquo;Counting Bs&amp;rsquo; function counts the number of &amp;lsquo;B&amp;rsquo;s in a word</description>
+    </item>
+    <item>
+      <title>Random Sorting</title>
+      <link>http://localhost:1313/blog/program2/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/program2/</guid>
+      <description>The Random Sorting function rearranges a given table of data</description>
+    </item>
     <item>
       <title>Defending Pandarus from Troilus and Criseyde</title>
       <link>http://localhost:1313/blog/filler1/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/filler1/</guid>
-      <description>&lt;p&gt;&lt;b&gt;In Defense of Pandarus&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Chaucer’s Troilus and Criseyde is a tragic poem that follows the romance between its two titular characters. One of the most important characters in the story, and the driving force for most of the plot, is the character Pandarus. Most readers have come to associate Pandarus with an ideal figure of treachery and mischief who schemes to achieve his selfish desires. This is an inaccurate understanding, however, because Pandarus, in reality, is an incredible friend and uncle whose only ambitions are to help those around him achieve their goals. Pandarus is a misunderstood figure who is perceived as a malicious, scheming villain, but in reality, he is just trying to look out for his friend’s health and love life.&lt;/p&gt;</description>
+      <description>A defense of Pandarus from Troilus and Criseyde</description>
+    </item>
+    <item>
+      <title>Hamlet&#39;s Suicidal Ideations</title>
+      <link>http://localhost:1313/blog/filler3/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler3/</guid>
+      <description>A catalog of Hamlet&amp;rsquo;s depressive behaviors and suicidal ideations</description>
     </item>
     <item>
       <title>Aristotle&#39;s Tragedy in Shakespeare</title>
       <link>http://localhost:1313/blog/filler2/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/filler2/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Tragic Flaws and Lethal Heroes: Othello and Macbeth under Aristotle’s Definition&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;The tragic hero has remained one of the most compelling figures in literature, captivating audiences across centuries through stories of downfall and internal struggle. Central to understanding this archetype is Aristotle’s Poetics, a foundational text that outlines the defining characteristics of tragedy and the heroes who inhabit such stories. While interpretations have evolved over time, Aristotle’s insights provide a valuable lens through which to examine dramatic literature, particularly in relation to Shakespearean tragedy. By revisiting the philosopher’s criteria for tragedy we can better grasp the complexities of tragic heroes like Othello and Macbeth. The characters of Othello and Macbeth closely align with the Aristotelian model of the tragic hero through their noble stature, fatal flaws, and eventual downfalls that evoke pity and fear.&lt;/p&gt;</description>
+      <description>How Shakespeare uses Aristotle&amp;rsquo;s definition of Tragedy in Macbeth and Othello</description>
     </item>
   </channel>
 </rss>

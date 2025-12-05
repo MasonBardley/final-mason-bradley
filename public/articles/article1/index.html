@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Counting B&#39;s | Masonic</title>
+    <title>Bugonia(2025) and the Bees | Masonic Readings</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="The &lsquo;Counting Bs&rsquo; function counts the number of &lsquo;B&rsquo;s in a word">
+    <meta name="description" content="A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia">
     <meta name="generator" content="Hugo 0.148.2">
     
     
@@ -36,24 +36,34 @@
     
 
     <meta property="og:url" content="http://localhost:1313/articles/article1/">
-  <meta property="og:site_name" content="Masonic">
-  <meta property="og:title" content="Counting B&#39;s">
-  <meta property="og:description" content="The ‘Counting Bs’ function counts the number of ‘B’s in a word">
+  <meta property="og:site_name" content="Masonic Readings">
+  <meta property="og:title" content="Bugonia(2025) and the Bees">
+  <meta property="og:description" content="A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="articles">
+    <meta property="article:published_time" content="2025-12-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-12-04T00:00:00+00:00">
+    <meta property="article:tag" content="Modern">
+    <meta property="article:tag" content="Movie">
+    <meta property="article:tag" content="Essay">
 
-  <meta itemprop="name" content="Counting B&#39;s">
-  <meta itemprop="description" content="The ‘Counting Bs’ function counts the number of ‘B’s in a word">
-  <meta itemprop="wordCount" content="815">
+  <meta itemprop="name" content="Bugonia(2025) and the Bees">
+  <meta itemprop="description" content="A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia">
+  <meta itemprop="datePublished" content="2025-12-04T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-12-04T00:00:00+00:00">
+  <meta itemprop="wordCount" content="827">
+  <meta itemprop="keywords" content="Modern,Movie,Essay">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Counting B&#39;s">
-  <meta name="twitter:description" content="The ‘Counting Bs’ function counts the number of ‘B’s in a word">
+  <meta name="twitter:title" content="Bugonia(2025) and the Bees">
+  <meta name="twitter:description" content="A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
 
     
+   
+  
 
   <header>
     <div class="bg-black">
@@ -61,7 +71,7 @@
   <div class="flex-l center items-center justify-between">
     <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
       
-        Masonic
+        Masonic Readings
       
     </a>
     <div class="flex-l items-center">
@@ -106,86 +116,113 @@
   </header>
 
 
+
     <main class="pb7" role="main">
       
-  <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
-      <header>
-        <h1 class="f1">
-          Counting B&#39;s
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
-        <h2 id="the-problem">The Problem</h2>
-<p>The following is an exercise from Chapter 3 of &lsquo;Eloquent Javascript&rsquo; by Marjin Haverbeke. The original text can be read <a href="https://eloquentjavascript.net/03_functions.html">here</a>, which includes the contents of the chapter and hints to the exercise.</p>
-<h3 id="counting-beans">Counting Beans</h3>
-<p>You can get the Nth character, or letter, from a string by writing [N] after the string (for example, string[2]). The resulting value will be a string containing only one character (for example, &ldquo;b&rdquo;). The first character has position 0, which causes the last one to be found at position string.length - 1. In other words, a two-character string has length 2, and its characters have positions 0 and 1.</p>
-<p>Write a function called countBs that takes a string as its only argument and returns a number that indicates how many uppercase B characters there are in the string.</p>
-<p>Next, write a function called countChar that behaves like countBs, except it takes a second argument that indicates the character that is to be counted (rather than counting only uppercase B characters). Rewrite countBs to make use of this new function.</p>
-<h2 id="provided-solution">Provided Solution</h2>
-<p>The following is a modified solution to the one that I had provided for the problem. The only alteration is that this version of countBs() also takes the char parameter to make it more digestible for an article. The rest of this article will be spent analyzing this code.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">countBs</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">ranWord</span>, <span style="color:#66d9ef">char</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;B&#34;</span>) {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">width</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">ranWord</span>.<span style="color:#a6e22e">length</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">bees</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">count</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">count</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">width</span>; <span style="color:#a6e22e">count</span><span style="color:#f92672">++</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">ranWord</span>[<span style="color:#a6e22e">count</span>] <span style="color:#f92672">===</span> <span style="color:#66d9ef">char</span> ) {
-</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">bees</span><span style="color:#f92672">++</span>
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>    } 
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">bees</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">`No </span><span style="color:#e6db74">${</span><span style="color:#66d9ef">char</span><span style="color:#e6db74">}</span><span style="color:#e6db74">s`</span>
-</span></span><span style="display:flex;"><span>    }
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">bees</span>
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><h3 id="examples">Examples</h3>
-<p>Here are some examples of what using this function might look like.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">countBs</span>(<span style="color:#e6db74">&#34;BOB&#34;</span>);
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">countBs</span>(<span style="color:#e6db74">&#34;kakkerlak&#34;</span>, <span style="color:#e6db74">&#34;k&#34;</span>);
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">countBs</span>(<span style="color:#e6db74">&#34;kakkerlak&#34;</span>);
-</span></span></code></pre></div><hr>
-<ul>
-<li>3</li>
-<li>4</li>
-<li>No Bs</li>
-</ul>
-<hr>
-<h2 id="starting-the-function">Starting the Function</h2>
-<p>The function takes two parameters: &lsquo;ranWord&rsquo; and &lsquo;char&rsquo;. &lsquo;ranWord&rsquo; looks at whatever string the user prompts the function with, and &lsquo;char&rsquo; will be the character that the function counts the total number. The default value for &lsquo;char&rsquo; is set to a capital &ldquo;B&rdquo;.</p>
-<p>When writing functions, I like to assign any values that will be consistently used throughout the problem first. Here, &lsquo;width&rsquo; is being assigned to the length of the string that the user has provided. Then, in case &lsquo;bees&rsquo; has already been assigned to something else, &lsquo;bees&rsquo; will be assigned to 0. &lsquo;bees&rsquo; will be used later to count the number of the given characters in the function, which I will talk more about later.</p>
-<h2 id="the-for-loop">The For-Loop</h2>
-<p>Here is a look at the for-loop by itself:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">count</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">count</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">width</span>; <span style="color:#a6e22e">count</span><span style="color:#f92672">++</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">ranWord</span>[<span style="color:#a6e22e">count</span>] <span style="color:#f92672">===</span> <span style="color:#66d9ef">char</span> ) {
-</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">bees</span><span style="color:#f92672">++</span>
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>    } 
-</span></span></code></pre></div><p>In JavaScript, the contents within the parenthesises of for-loops are written in order of the events that will happen. Before the loop begins to run, it will assign &lsquo;count&rsquo; to 0. &lsquo;count&rsquo; will be the value that the loop looks at to see if it is time for the loop to end, which is shown in &lsquo;count &lt; width&rsquo;. The loop will continue running until &lsquo;count&rsquo; is equal to the &lsquo;width&rsquo; value assigned earlier in the function. At the end of every loop, &lsquo;count&rsquo; will increase by 1 (&lsquo;count++&rsquo;). So, the loop will run one time for each character in the string provided by the function&rsquo;s user, but what is happening each time loop runs?</p>
-<p>Each time it runs, the loop will check if the character that the loop is currently on is equal to the character provided earlier in the parameters of the function. If the result is TRUE, then the loop will add 1 to the &lsquo;bees&rsquo; variable that we assigned to 0 earlier.</p>
-<p>For example, in the string &lsquo;BOB&rsquo;, the loop will run 3 times. When it stops at B, the loop will look something like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">count</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>; <span style="color:#a6e22e">count</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">3</span>; <span style="color:#a6e22e">count</span><span style="color:#f92672">++</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span> (<span style="color:#e6db74">&#34;BOB&#34;</span>[<span style="color:#ae81ff">1</span>] <span style="color:#f92672">===</span> <span style="color:#e6db74">&#34;B&#34;</span> ) {
-</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">bees</span><span style="color:#f92672">++</span> 
-</span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>    } 
-</span></span></code></pre></div><p>When the loop has run through each of the values, it will stop, and move onto the next step of the function.</p>
-<h2 id="returning-to-the-console">Returning to the Console</h2>
-<p>Here is the code seen at the end of the problem:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">bees</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">0</span>) {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">`No </span><span style="color:#e6db74">${</span><span style="color:#66d9ef">char</span><span style="color:#e6db74">}</span><span style="color:#e6db74">s`</span>
-</span></span><span style="display:flex;"><span>    }
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">bees</span>
-</span></span></code></pre></div><p>It is a simple if() statement that first checks if there were any of the provided characters in the function at all. If there were none, the function will return a phrase that tells the user that no of their characters were in the string. A value is returned in this way by putting a dollar sign in front of the braces containing the given variable. Otherwise, the function will simply return the number of the given character that was present in the string.</p>
-<p>We also cannot forget to put return in front of whatever we want to be returned to the console at the end of the problem. Then, we&rsquo;re done!</p>
+  
+  
+  <article class="flex-l mw8 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Articles
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">Bugonia(2025) and the Bees</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2025-12-04T00:00:00Z">December 4, 2025</time>
+      
 
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h2 id="the-medieval-practice-of-bugonia">The Medieval Practice of &ldquo;Bugonia&rdquo;</h2>
+<p>In the period between the Middle Ages and the Renaissance, there was a practice performed by apiarists known as “bugonia”. Bugonia is a gruesome process where men will beat an ox almost to death (careful not to spill any blood) before leaving it in an enclosed shelter for weeks with the hope of bees spawning from its corpse. Historians to this day debate on where this belief could have possibly come from, and recently it has breached the popular discussion after the release of the 2025 film of the same name, <em>Bugonia</em>. <em>Bugonia</em> is a movie about a pharmaceutical CEO who is kidnapped by conspiracy theorists who believe that she is secretly an alien sent to destroy humanity. Although the movie and the practice seem like totally different ideas, the movie actually follows the ritual of bugonia using a bait-and-switch. <em>Bugonia</em> is able to represent its practice of the same name through its use of apiarists, sacrificial lambs (oxen), and the eventual return of the bees in the film’s final moments.</p>
+<h2 id="bugonia2025"><em>Bugonia</em>(2025)</h2>
+<p>On the surface, it seems obvious that Teddy, the conspiracy-driven beekeeper, would represent the apiarists who practised bugonia. It’s true that Teddy literally owns bees, but he&rsquo;s also actively seeking to bring them back in a larger sense. At the beginning of the film, Teddy monologues about the beauty and fragility of bees, and how they are dying out now because of a shadow government conspiracy to control supply chains. In this sense, it is also clear to see how Teddy can represent the blind nature of the bugonian apiarists who believed in a myth that the ox’s death would bring them more bees. It is also true that Teddy spends the majority of the film beating Michelle in various ways, much like the apiarists brutally beat the ox, and, like them, Teddy never beats her so badly that she dies. It is reasonable to believe that Teddy is meant to represent the apiarist with all of this in mind.</p>
+<p>Following this logic, Michelle must then be the ox as she is the subject of all of Teddy’s beatings. She is powerless throughout most of the film to Teddy’s beatings, but the distinct difference is Michelle’s ability to speak. Michelle is a practical, cool-headed, and convincing orator who is constantly able to talk Teddy down from going completely over the edge, <span class = 'hidden-text'><em>although it takes her a long time to eventually convince him to let her go.</em></span> Michelle cannot be the ox because even though she is stuck in her situation, she is still an active and powerful presence that is consistently able to keep herself alive. In this way, Michelle is more comparable to the bees, whom she and Teddy can mutually agree are resilient. However, the idea that Teddy is the apiarist and Michelle is the ox or even the bees just falls apart when following that line of logic.</p>
+<p><b>HEAVY SPOILERS AHEAD</b></p>
+<p><span class = 'hidden-text'><em>I believe that if the Bugonia movie follows the same steps as the bugonia ritual, then Michelle would be the actual apiarist. Michelle reveals at the end of the movie that she really is an alien, but Teddy had it backwards: the aliens were the ones trying to save Earth (and humanity itself) from humanity. When Michelle realises how monstrous Teddy is, she makes him accidentally kill his own mother. There are a handful of other deaths in the film as well, but it seems like Teddy’s mother could be the real ox as she is immobile and, in a metaphorical sense, has been beaten down by the healthcare system. Her death lets Michelle finally convince Teddy to let her out. When Michelle is freed, she kills humanity, and the movie ends with a sequence of animals, including bees, living in a world now occupied only by human corpses. In this sense, the bees are able to come back because Michelle killed humanity, which completes the puzzle of lining up the movie with the bugonia ritual.</em></span></p>
+<h2 id="conclusion">Conclusion</h2>
+<p><em>Bugonia</em> makes a point about humanity’s inclinations to superstition and conspiracy. Even though Teddy <span class = 'hidden-text'><em>is correct about the aliens’ existence (unlike the apiarists who worked purely off belief)</em></span>, he is still blinded by his own hubris and incidentally ends up getting a lot of innocent people killed along his journey. Michelle and Teddy share the same idyllic goal of saving the planet and saving humanity, but Teddy’s disconnect and rage make him believe that the only way to achieve his goals is through violence. Much like the people of the late Middle Ages who practised brutalising oxen to hopefully bring them more bees, Teddy is so confident in what he believes that he will follow it no matter what anyone else says. <em>Bugonia</em> seems to suggest that the existence of bugonia, people like Teddy, and the overwhelming power of corporations are just some examples of how humans are innately animalistic, and our only option is to grow or die.</p>
+<style>
+.hidden-text {
+
+opacity: 0;
+}
+
+.hidden-text:hover {
+
+opacity: 1;
+}
+</style>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/modern/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Modern</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/movie/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Movie</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/essay/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Essay</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
       </div>
-    </article>
-  </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/blog/article1/">Bugonia(2025) and the Bees</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/program1/">Counting B&#39;s</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/program2/">Random Sorting</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/filler1/">Defending Pandarus from Troilus and Criseyde</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/filler3/">Hamlet&#39;s Suicidal Ideations</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/filler2/">Aristotle&#39;s Tragedy in Shakespeare</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
-    &copy;  Masonic 2025 
+    &copy;  Masonic Readings 2025 
   </a>
     <div><div class="ananke-socials"></div>
 </div>

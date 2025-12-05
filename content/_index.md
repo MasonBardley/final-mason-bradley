@@ -2,9 +2,9 @@
 title: "Welcome"
 description: "to Mason Bradley's website"
 cascade:
-  featured_image: '/sitebanner.jpg'
+  featured_image: '/sitebannernew.png'
 ---
 
-Here, you can find a myriad of articles, information, and miscellaneous items by Mason Bradley. 
+This website is home to Mason Bradley's reviews and analyses of various pieces of Medieval/Renaissance literature, film, television, and more! Navigate to the  <a href="/articles/" target="_blank">Articles</a> page to get started! To learn more about Mason head to the <a href="/about/" target="_blank">About Me</a> page!
 
 

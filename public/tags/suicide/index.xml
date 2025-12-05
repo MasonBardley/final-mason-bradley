@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suicide on Masonic Readings</title>
+    <link>http://localhost:1313/tags/suicide/</link>
+    <description>Recent content in Suicide on Masonic Readings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/suicide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hamlet&#39;s Suicidal Ideations</title>
+      <link>http://localhost:1313/blog/filler3/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler3/</guid>
+      <description>A catalog of Hamlet&amp;rsquo;s depressive behaviors and suicidal ideations</description>
+    </item>
+  </channel>
+</rss>
