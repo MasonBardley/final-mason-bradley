@@ -6,18 +6,40 @@
     <description>Recent content in Modern on Masonic Readings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/modern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugonia(2025) and the Bees</title>
+      <link>http://localhost:1313/articles/article1/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/article1/</guid>
+      <description>A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia</description>
+    </item>
+    <item>
+      <title>Bugonia(2025) and the Bees</title>
+      <link>http://localhost:1313/blog/article1/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/article1/</guid>
+      <description>A breakdown of how Bugonia(2025) follows the Medieval practice of bugonia</description>
+    </item>
+    <item>
+      <title>Why I Love Ned Stark</title>
+      <link>http://localhost:1313/articles/article2/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/article2/</guid>
+      <description>An opinion piece on why I like Eddard Stark from Game of Thrones</description>
+    </item>
     <item>
       <title>Counting B&#39;s</title>
       <link>http://localhost:1313/blog/program1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/program1/</guid>
       <description>The &amp;lsquo;Counting Bs&amp;rsquo; function counts the number of &amp;lsquo;B&amp;rsquo;s in a word</description>
     </item>
     <item>
       <title>Random Sorting</title>
       <link>http://localhost:1313/blog/program2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/program2/</guid>
       <description>The Random Sorting function rearranges a given table of data</description>
     </item>

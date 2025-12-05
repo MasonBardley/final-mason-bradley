@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blog/filler1/</guid>
       <description>A defense of Pandarus from Troilus and Criseyde</description>
     </item>
+    <item>
+      <title>Aristotle&#39;s Tragedy in Shakespeare</title>
+      <link>http://localhost:1313/blog/filler2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler2/</guid>
+      <description>How Shakespeare uses Aristotle&amp;rsquo;s definition of Tragedy in Macbeth and Othello</description>
+    </item>
   </channel>
 </rss>

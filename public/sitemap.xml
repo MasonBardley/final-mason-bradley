@@ -3,50 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/articles/article1/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/program1/</loc>
+    <loc>http://localhost:1313/blog/article1/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/article2/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/article2/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/program1/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/program2/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/filler1/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/filler3/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/filler2/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/aiusage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/essay/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fantasy/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modern/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/movie/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/television/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chivalry/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/literature/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medieval/</loc>
+    <loc>http://localhost:1313/tags/substantive/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/filler2/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/shakespeare/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/filler3/</loc>
+    <loc>http://localhost:1313/tags/suicide/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/articles/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/modern/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/programming/</loc>
+    <loc>http://localhost:1313/tags/website/</loc>
   </url>
 </urlset>
