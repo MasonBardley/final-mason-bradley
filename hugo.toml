@@ -37,21 +37,5 @@ unsafe = true
 [params.ananke]
 show_recent_posts = false
 
-<script>
-document.getElementById("darkToggle").addEventListener("click", function () {
-  document.body.classList.toggle("dark-castle");
 
-  // Save preference
-  if (document.body.classList.contains("dark-castle")) {
-    localStorage.setItem("castle-mode", "on");
-  } else {
-    localStorage.setItem("castle-mode", "off");
-  }
-});
-
-// Load saved preference
-if (localStorage.getItem("castle-mode") === "on") {
-  document.body.classList.add("dark-castle");
-}
-</script>
 

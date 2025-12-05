@@ -22,7 +22,7 @@ The vast majority of my work experience is in fast food. I've worked almost a mo
 I'm pursuing an English degree with a minor in Computer Sciences. I'm a member of and the Vice President of the President's House Association where I've found a sense of comradery in brotherhood and gained a lot of experience in a leadership position as well as other positions I held in the house. This includes graphics chair, membership chair, community relations chair, and t-shirt chair. 
 
 ## Passions
-I am passionate about the craft of writing, and I would like to be able to pursue it as a career one day. I also like to run long distance, although I hurt my leg very recently and have been able to do any running. Naturally, I also have a deep respect for art, primarily in film and television as I would like to pursue a career involved in entertainment. If you are curious about some of my favorites, check out my Lists page! 
+I am passionate about the craft of writing, and I would like to be able to pursue it as a career one day. I also like to run long distance, although I hurt my leg very recently and have been able to do any running. Naturally, I also have a deep respect for art, primarily in film and television as I would like to pursue a career involved in entertainment. 
 
 
 <style>
