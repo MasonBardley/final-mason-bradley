@@ -25,12 +25,3 @@ I'm pursuing an English degree with a minor in Computer Sciences. I'm a member o
 I am passionate about the craft of writing, and I would like to be able to pursue it as a career one day. I also like to run long distance, although I hurt my leg very recently and have been able to do any running. Naturally, I also have a deep respect for art, primarily in film and television as I would like to pursue a career involved in entertainment. 
 
 
-<style>
-.full {
-    
-
-
-}
-
-</style>
-
