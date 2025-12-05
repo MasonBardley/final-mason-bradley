@@ -20,6 +20,8 @@ Ned is a father of six children, the lord of Winterfell, and also the Hand of th
 
 ## Lord of Winterfell
 
+<img class="image-right-250" src="/ned1.jpg">
+
 Ned’s first scene in the show is him confronting a deserter who had encountered a terrifying creature called a White Walker, something the other characters do not believe in at this point in the show. The young man and Ned have a solemn understanding that Ned has to kill him as the crowd watches onward, and so he does. These are the moments that some people question, and I can understand that; However, one also cannot help but to have some level of respect for him standing up for the law above his own personal beliefs. To elaborate, throughout the show, Ned is forced into making difficult decisions, but for the most part, he tries to detach himself from the situation and take an objective stance that upholds the law laid out before him, as is his duty as lord. This does have to come with the acknowledgement of how imperfect this path is, which is best seen in the scene where Ned leaves for King’s Landing. His wife reminds him of how last time he left, he returned home with “another woman’s child” (Jon Snow). She says the lines, “You do have a choice, and you’ve made it.” This is likely why Ned is eventually forced to take more moral stances (although he is also in a place of more power when he begins taking these stances). 
 
 ## Eddard Stark

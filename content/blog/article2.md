@@ -6,6 +6,7 @@ omit_header_text: true
 featured_image: 
 summary: "An opinion piece on why I like Eddard Stark from Game of Thrones"
 type: 
+tags: ["television", "modern", "fantasy"]
 weight: 2
 ---
 
@@ -18,6 +19,8 @@ On April 17, 2011, a fantasy drama TV show that would become a worldwide phenome
 Ned is a father of six children, the lord of Winterfell, and also the Hand of the King in possibly the most dangerous place for him to live in the world of Game of Thrones, King’s Landing. Ned does not get many interactions with his kids because of how busy his life is, but from what the show provides, Ned is depicted as a loving father trying his best in a treacherous world. It goes from day-to-day life problems like Sansa and Arya fighting, and him trying to play mediator, albeit half successfully: fumbling by giving Sansa toys she’s too old for, but on the good side, getting Arya a sword and swordmaster to her joy. It goes further to bigger things, like when Jon Snow leaves to join the Night’s Watch. Jon, a bastard, is unconfident in his relationship with his father, but Ned reassures him by saying, “You may not have my name, but you have my blood.” It’s moments like these, and there are many more, where Ned is able to show how much his family means to him because they are what motivates him to make the decisions that he makes throughout his time on the show. His lasting impacts are also best seen in his children, who go on to become great people and who go to great lengths to bring honor to their family’s name. 
 
 ## Lord of Winterfell
+
+<img class="image-right-250" src="/ned1.jpg">
 
 Ned’s first scene in the show is him confronting a deserter who had encountered a terrifying creature called a White Walker, something the other characters do not believe in at this point in the show. The young man and Ned have a solemn understanding that Ned has to kill him as the crowd watches onward, and so he does. These are the moments that some people question, and I can understand that; However, one also cannot help but to have some level of respect for him standing up for the law above his own personal beliefs. To elaborate, throughout the show, Ned is forced into making difficult decisions, but for the most part, he tries to detach himself from the situation and take an objective stance that upholds the law laid out before him, as is his duty as lord. This does have to come with the acknowledgement of how imperfect this path is, which is best seen in the scene where Ned leaves for King’s Landing. His wife reminds him of how last time he left, he returned home with “another woman’s child” (Jon Snow). She says the lines, “You do have a choice, and you’ve made it.” This is likely why Ned is eventually forced to take more moral stances (although he is also in a place of more power when he begins taking these stances). 
 

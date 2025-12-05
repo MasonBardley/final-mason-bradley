@@ -10,6 +10,7 @@ weight: 2
 tags: ["essay", "literature", "Shakespeare", "substantive"]
 ---
 
+<img class="image-center-250" src="/othello.jpg">
 
 # Tragic Flaws and Lethal Heroes: Othello and Macbeth under Aristotle’s Definition
 

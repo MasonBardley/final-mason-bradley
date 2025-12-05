@@ -22,6 +22,8 @@ Ophelia offers additional insight into Hamlet’s suicidal motivations when she 
 
 ## "To be or not to be"
 
+<img class="image-center-250" src="/hamlet1.jpg">
+
 Hamlet’s most famous soliloquy, and the one most often discussed in relation to his suicidal ideation, is the classic “To be or not to be” soliloquy. This soliloquy takes place near the beginning of Act 3 after Claudius tries to extract information from Hamlet’s friends, Rosencrantz and Guildenstern about Hamlet’s weird behavior. Polonius and Claudius quickly hide themselves and listen in when Hamlet enters and begins to speak. Hamlet says, “By a sleep to say we end/ The heartache, and the thousand natural shocks/ That flesh is heir to! ‘Tis a consummation/ Devoutly to be wished. To die, to sleep” (III.i.61-64). Hamlet, again, speaks about death as a way to relieve the unending pain and suffering that comes from living, which he points to when speaking of the natural shocks that is innate with flesh. More importantly, he, like most people at the time, thinks of death as sleep. Hamlet continues, “To sleep- perchance to dream: ay, there’s the rub/ For in that sleep of death what dreams may come/ When we have shuffled off this mortal coil/ Must give us pause” (III.i.65-68). Hamlet's "sleep death" must include dreams of afterlife, which in this case would be Hell. 
 
 ## Ambiguity
