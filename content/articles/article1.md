@@ -35,12 +35,13 @@ Following this logic, Michelle must then be the ox as she is the subject of all 
 
 <style>
 .hidden-text {
+color: black;
+background: black;
 
-opacity: 0;
 }
 
 .hidden-text:hover {
-
-opacity: 1;
+color: black;
+background: none;
 }
 </style>

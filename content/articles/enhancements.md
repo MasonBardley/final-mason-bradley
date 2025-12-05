@@ -13,11 +13,11 @@ weight: 2
 
 The website banner was made using Canva, and is consistent through every page. 
 
-Pictures have been added for visual appeal to different pages. I attempted to make it so the images would be able to appear in different places, but I did not get that accomplished. 
+Pictures have been added for visual appeal to different pages. I attempted to make it so the images would be able to appear in different places, but I did not get that accomplished. I pulled the code from Dr. White's github. 
 
 <b>Hidden Text for Spoilers</b>
 
-I was looking for ways to hide text, and I found a reddit post that contained the code for hiding text as seen in the "Bugonia" article, and used it for covering up spoilers unless someone desired to look at it by hovering their mouse over the text. 
+I wanted to hide the text from people who did not want to be spoiled, so I found a piece of code on reddit that turned the text's opacity to 0, but I adjusted the code to make black bars instead. This is done by turning the text and background to the same color: black. 
 
-This is accomplished by making a class called 'hidden-text' that will set the opacity of a given piece of text to 0. 'hidden-text:hover' returns the text's opacity to 1 when the mouse is hovering over top of it. 
+I also added a hover feature where the blacked-out text loses its black background when a mouse hovers over it. 
 
