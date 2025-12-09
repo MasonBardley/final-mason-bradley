@@ -8,6 +8,12 @@ Trying to find a movie to watch?
 
 <h1>The Movie Recommender</h1>
 
+<h2>Lists</h2>
+<select id= "pickedList">
+  <option value= "movies">Thematic</option>
+  <option value= "IMDB">IMDB Top</option>
+</select>
+
 <h2>Genre</h2>
 <label><input type="checkbox" class="genre" value="romance"> Romance</label>
 <label><input type="checkbox" class="genre" value="comedy"> Comedy</label>
