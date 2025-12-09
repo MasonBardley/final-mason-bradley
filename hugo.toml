@@ -34,8 +34,12 @@ unsafe = true
   url = "/blog/"
   weight = 4
 
+[[menu.main]]
+  name = "Lists"
+  url = "/movierec/"
+  weight = 5
+
 [params.ananke]
 show_recent_posts = false
-
 
 

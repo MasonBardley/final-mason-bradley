@@ -21,3 +21,10 @@ I wanted to hide the text from people who did not want to be spoiled, so I found
 
 I also added a hover feature where the blacked-out text loses its black background when a mouse hovers over it. 
 
+<b>Movie Recommender</b>
+
+I was looking for a substantive enhancement to make to my website, and I had an idea to create a generator that would recommend movies if you needed an idea for something to watch one night. 
+
+The generator was made using the code from the bhangra randomizer as a base, and AI was used to expand from there with a lot of the commands that I did not know how to use such as making the filter tool and creating the checkboxes. 
+
+I manually put together the list of movie possibilities with genre and year. I also worked a lot with the formatting to make the generator look neat. 
