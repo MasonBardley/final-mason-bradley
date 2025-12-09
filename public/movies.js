@@ -1,17 +1,25 @@
 const movies = [
-  { title: "Monty Python and the Holy Grail", year: 1975, genre: ["comedy"] },
-  { title: "Othello", year: 1995, genre: ["drama"] },
-  { title: "10 Things I Hate About You", year: 1999, genre: ["romance"] },
-  { title: "Fellowship of the Ring", year: 2001, genre: ["fantasy"] }
+  { title: "Monty Python and the Holy Grail", year: 1975, genre: ["comedy", "fantasy"] },
+  { title: "Othello", year: 1995, genre: ["drama", "romance"] },
+  { title: "10 Things I Hate About You", year: 1999, genre: ["romance", "comedy"] },
+  { title: "Fellowship of the Ring", year: 2001, genre: ["fantasy"] },
+  { title: "The Green Knight", year: 2021, genre: ["fantasy"]},
+  { title: "The Lion King", year: 1994, genre: ["drama", "comedy"]},
+  { title: "The Princess Bride", year: 1987, genre: ["comedy", "romance", "fantasy"]}
 ];
 
+
+
 document.getElementById("pick").addEventListener("click", () => {
+  const pickedList = document.getElementById("pickedList").value;
   const pickedGenres =
     Array.from(document.querySelectorAll(".genre:checked"))
          .map(g => g.value);
   const pickedYear = document.getElementById("pickedYear").value;
-
-  let filtered = movies.filter(m => {
+  let list;
+    if (pickedList === "IMDB") list = IMDB;
+    else list = movies;
+  let filtered = list.filter(m => {
     if (pickedGenres.length === 0) return true;
     return pickedGenres.some(g => m.genre.includes(g));
   });
@@ -33,4 +41,14 @@ document.getElementById("pick").addEventListener("click", () => {
     <p>Year: ${movie.year}</p>
   `;
 });
+
+const IMDB = [
+  { title: "The Shawshank Redemption", year: 1994, genre: ["drama"]},
+  { title: "The Godfather", year: 1972, genre: ["drama"]},
+  { title: "The Dark Knight", year: 2008, genre: ["drama"]},
+  { title: "Schindler's List", year: 1993, genre: ["drama"]},
+  { title: "12 Angry Men", year: 1957, genre: ["drama"]}
+]
+
+
 
